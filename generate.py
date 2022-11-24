@@ -17,3 +17,6 @@ with open(f"{wordlist_name}") as file:
     for line in file.readlines():
         names.append(line.rstrip("\n"))
 
+for n in names:
+    print(n)
+
