@@ -1,5 +1,5 @@
 # username-generator
-Username generator project in python
+Username generator script written in python
 
 # Usage
 ```
